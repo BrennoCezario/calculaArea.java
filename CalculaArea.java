@@ -1,5 +1,5 @@
 import java.io.*;
-public class P1nX{
+public class CalculaArea{
 	//Areas:
 	private static double calcula(double r) throws IOException {
 		if(r*Math.PI <= 0){
