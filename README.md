@@ -12,14 +12,17 @@ Este é um programa Java simples para calcular áreas de diferentes formas geom�
    javac calculaArea.java
 
 3. **Executar o Programa**
+
    Para calcular a área de um círculo, insira o raio como argumento:
    ```bash
    java calculaArea <raio>
 
+   
    Para calcular a área de um retângulo, insira a base e a altura como argumentos:
    ```bash
    java calculaArea <base> <altura>
 
+   
    Para calcular a área de um triângulo, insira os três lados como argumentos:
    ```bash
    java calculaArea <lado1> <lado2> <lado3>
